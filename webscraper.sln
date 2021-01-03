@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "webscraper", "webscraper\webscraper.pyproj", "{70E8F5EC-46C2-4FCB-8DAB-A0A817BB5864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E8F5EC-46C2-4FCB-8DAB-A0A817BB5864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E8F5EC-46C2-4FCB-8DAB-A0A817BB5864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A73CC69F-F28F-42C2-AA20-D722150D9D64}
+	EndGlobalSection
+EndGlobal
